@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@author demo <dongxlmo@163.com>
+@author demo <hdzhangsheng@163.com>
 @file: mt_api.py
-@time 2018/8/10 下午3:31
+@time 2018/11/10 下午3:31
 """
 
 import base64
